@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Arif, and I'am an Undergraduate student from UniKL MSI
+Follow along in my journey as a programmer!
 <!--
 **RifBal/rifbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
