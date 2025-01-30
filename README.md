@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Arif, and I'am an Undergraduate student from UniKL MSI
+My name is Arif, and I'am an Undergraduate student from UniKL
 
 Follow along in my journey as a programmer!
 <!--
